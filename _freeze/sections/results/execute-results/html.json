@@ -1,0 +1,12 @@
+{
+  "hash": "2cad090f2d0100323d61bdbbc303f783",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Resultados\n---\n\n\n:::{#b0403575 .cell .markdown}\n\nEste es un marcador de posición simple para el desarrollo del manuscrito.\n\n```{markdown}\n| Nombre | Edad | Ciudad |\n|--------|------|--------|\n| Juan   | 25   | Madrid |\n| María  | 30   | Sevilla |\n| Pedro  | 22   | Valencia |\n```\n\n![image](../figures/figure_1.png){#fig:figura_1}\n\n:::\n\n",
+    "supporting": [
+      "results_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

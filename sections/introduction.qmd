@@ -1,0 +1,3 @@
+## Introducción {#sec-introduccion}
+
+Este es un marcador de posición simple para el documento principal del manuscrito [@knuth84]. Refierase al siguiente enlace para más información sobre cómo escribir un manuscrito con Quarto: <https://quarto.org/docs/manuscripts/authoring/vscode.html>

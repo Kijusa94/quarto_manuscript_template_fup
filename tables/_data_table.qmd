@@ -1,0 +1,5 @@
+| Nombre | Edad | Ciudad |
+|--------|------|--------|
+| Juan   | 25   | Madrid |
+| María  | 30   | Sevilla |
+| Pedro  | 22   | Valencia |

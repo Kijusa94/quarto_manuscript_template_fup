@@ -1,0 +1,7 @@
+## Resultados {#sec-resultados}
+
+Este es un marcador de posición simple para el desarrollo del manuscrito.
+
+![image](/figures/figure_1.png){#fig:figura_1}
+
+{{< include /tables/_data_table.qmd >}}
